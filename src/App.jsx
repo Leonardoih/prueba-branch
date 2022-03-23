@@ -9,6 +9,7 @@ function App() {
       <h1>Esto es lo que dicen nuestros alumnos sobre freeCodeCamp:</h1>
       <Testimonio
         nombre='Shawn Wang'
+        alt='foto de Shawn'
         pais='Singapur'
         imagen='shawn'
         cargo='Ingeniero de Software'
@@ -17,6 +18,7 @@ function App() {
       />
       <Testimonio
         nombre='Emma Bostian'
+        alt='foto de Emma'
         pais='Suecia'
         imagen='emma'
         cargo='Ingeniera de Software'
@@ -25,6 +27,7 @@ function App() {
       />
       <Testimonio
         nombre='Sarah Chima'
+        alt='foto de Sarah'        
         pais='Nigeria'
         imagen='sarah'
         cargo='Ingeniera de Software'
